@@ -12,9 +12,9 @@ cd EFS
 conda create --name efs --file env.txt
 ```
 
-2. Download pretrained models and unzip, so that `addnet_best.pth` and `mergenet_best.pth` are in `pretrained/`.
+2. Download [pretrained models](https://drive.google.com/drive/folders/10GLBdhPjcqnWA8DBPlep_BIdAq0STCjC?usp=sharing) and unzip, so that `addnet_best.pth` and `mergenet_best.pth` are in `pretrained/`.
 
-3. Download example data and unzip, so that there are `example_data/real/blurry/*.png` & `example_data/real/events/*.npy`.
+3. Download [example data](https://drive.google.com/drive/folders/10GLBdhPjcqnWA8DBPlep_BIdAq0STCjC?usp=sharing) and unzip, so that there are `example_data/real/blurry/*.png` & `example_data/real/events/*.npy`.
 
 4. Run the test code:
 
