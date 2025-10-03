@@ -22,3 +22,5 @@ conda create --name efs --file env.txt
 conda activate efs
 python make_all_in_focus.py
 ```
+
+**Note:** The camera used in the project is a Prophesee EVK4-HD, with an IMX636 sensor and sensor generation 4.2. The "Prophesee GEN4.0" in the paper is a typo.
